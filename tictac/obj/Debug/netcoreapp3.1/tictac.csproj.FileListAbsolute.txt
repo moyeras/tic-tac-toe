@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\tictac\bin\Debug\netcoreapp3.1\tictac.exe
+C:\Users\yusuf\source\repos\tictac\bin\Debug\netcoreapp3.1\tictac.deps.json
+C:\Users\yusuf\source\repos\tictac\bin\Debug\netcoreapp3.1\tictac.runtimeconfig.json
+C:\Users\yusuf\source\repos\tictac\bin\Debug\netcoreapp3.1\tictac.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\tictac\bin\Debug\netcoreapp3.1\tictac.dll
+C:\Users\yusuf\source\repos\tictac\bin\Debug\netcoreapp3.1\tictac.pdb
+C:\Users\yusuf\source\repos\tictac\obj\Debug\netcoreapp3.1\tictac.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\tictac\obj\Debug\netcoreapp3.1\tictac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\tictac\obj\Debug\netcoreapp3.1\tictac.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\tictac\obj\Debug\netcoreapp3.1\tictac.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\tictac\obj\Debug\netcoreapp3.1\tictac.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\tictac\obj\Debug\netcoreapp3.1\tictac.dll
+C:\Users\yusuf\source\repos\tictac\obj\Debug\netcoreapp3.1\tictac.pdb
+C:\Users\yusuf\source\repos\tictac\obj\Debug\netcoreapp3.1\tictac.genruntimeconfig.cache
